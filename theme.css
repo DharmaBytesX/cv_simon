@@ -549,7 +549,7 @@ h1 {
 .cert-icon {
     width: 44px;
     height: 44px;
-    background: var(--gradient-1);
+    background: var(--bg-secondary);
     border-radius: 10px;
     display: flex;
     align-items: center;
