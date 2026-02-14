@@ -102,7 +102,7 @@ nav {
     z-index: 1000;
     padding: 1.5rem 8%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background: rgba(250, 250, 249, 0.85);
     backdrop-filter: blur(20px);
